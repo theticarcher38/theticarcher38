@@ -1,22 +1,16 @@
 ## About Me
 
-* Currently a high school coding novice
-* Looking to go into a field of computer science 
+- Currently a high school coding novice
 
-<!--
-**theticarcher38/theticarcher38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Looking to go into a field of computer science 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on nothing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning react-typescript
+
+- 📫 How to reach me: hunterleegoodman@gmail.com
+
+- 😄 Pronouns: he/him
 
 ## Github Stats
 
