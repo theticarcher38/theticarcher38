@@ -1,4 +1,7 @@
-### Hi there 👋
+## About Me
+
+* Currently a high school coding novice
+* Looking to go into a field of computer science 
 
 <!--
 **theticarcher38/theticarcher38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theticarcher38)](https://github.com/anuraghazra/github-readme-stats)
