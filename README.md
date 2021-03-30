@@ -19,3 +19,7 @@
 ## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theticarcher38&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+## Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theticarcher38&repo=LawsForPaws)](https://github.com/anuraghazra/github-readme-stats)
