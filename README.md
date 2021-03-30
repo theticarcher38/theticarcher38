@@ -15,3 +15,7 @@
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theticarcher38&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Shoutout
+
+Huge thanks to @Paul-W-0 for getting me into programming
