@@ -22,4 +22,6 @@
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theticarcher38&repo=LawsForPaws)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theticarcher38&theme=synthwave&repo=LawsForPaws)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theticarcher38&theme=synthwave&repo=Web_Server)](https://github.com/anuraghazra/github-readme-stats)
