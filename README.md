@@ -5,7 +5,7 @@ Hello, I am Hunter. I am 17 years old and a senior in high school. I consider my
 
 - 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning react-typescript
+- 🌱 I’m currently learning Assembly
 
 - 📫 How to reach me: hunterleegoodman@gmail.com
 
