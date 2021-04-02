@@ -1,15 +1,15 @@
 ## About Me
 Hello, I am Hunter. I am 17 years old and a senior in high school. I consider myself a coding novice. I have been coding since 2016, albiet, I have not coded a lot since I first started. I am looking forward to learning a lot more in the future though.
 
-- Looking to go into a field of computer science 
+* Looking to go into a field of **computer science** 
 
-- 🔭 I’m currently working on nothing
+* 🔭 I’m currently working on making an **operating system**
 
-- 🌱 I’m currently learning Assembly
+* 🌱 I’m currently learning How to make an **operating system**
 
-- 📫 How to reach me: hunterleegoodman@gmail.com
+* 📫 How to reach me: **hunterleegoodman@gmail.com**
 
-- 😄 Pronouns: he/him
+* 😄 Pronouns: **he/him**
 
 ## Github Stats
 
