@@ -3,9 +3,9 @@ Hello, I am Hunter. I am 17 years old and a senior in high school. I consider my
 
 * Looking to go into a field of **computer science** 
 
-* 🔭 I’m currently working on making an **operating system**
+* 🔭 I’m currently working on making an **Text-based rpg in c++**
 
-* 🌱 I’m currently learning How to make an **operating system**
+* 🌱 I’m currently learning How to make an **c++**
 
 * 📫 How to reach me: **hunterleegoodman@gmail.com**
 
