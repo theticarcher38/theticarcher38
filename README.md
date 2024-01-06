@@ -1,5 +1,5 @@
 ## About Me
-Hello, I am Hunter. I am 18 years old. I consider myself a coding novice. I have been coding since 2016, albiet, I have not coded a lot since I first started. I am looking forward to learning a lot more in the future though.
+Hello, I am Hunter. I am 20 years old. I consider myself a coding novice. I have been coding since 2016, albeit, I have not coded a lot since I first started. I am looking forward to learning a lot more in the future though.
 
 * Looking to go into a field of **computer science** 
 
